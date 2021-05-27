@@ -1,8 +1,7 @@
 # Welcome!
-I am Yami, an Epitech student / Year 2025</br>
-I know C, Python, HTML/CSS/Js. I know a bit about MySQL and PHP (see my test website : [coolshoppinglist](https://coolshoppinglist.ml))</br>
-I can use Linux, and Windows. I can setup Linux VMs and webservers, with Arch/Fedora/Ubuntu/Debian
+Yami, Epitech student (2025)</br>
+I use C, Python, fullstack web</br>
 
 ## Linux Distro
-I use Fedora 33 with KDE/Plasma</br>
+I use Fedora 33, KDE/Plasma</br>
 Soon I'll be using Arch Linux
