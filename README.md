@@ -1,5 +1,5 @@
 # Welcome!
-Yami, Epitech student (2025)</br>
+Ashley, Epitech student (2025)</br>
 I use C, Python, fullstack web</br>
 
 ## Linux Distro
