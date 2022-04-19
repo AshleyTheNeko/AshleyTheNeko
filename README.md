@@ -1,5 +1,5 @@
 # Welcome!
-Ashley, Epitech student (2025->2030), she/her</br>
+Ashley, Epitech student (2020->2025), she/her</br>
 I use C, C++, Python, Node.js, Bash, Docker</br>
 
 ## Linux Distro
