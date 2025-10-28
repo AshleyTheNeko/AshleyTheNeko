@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Ashley :3</h1>
 <h3 align="center">< C/C++/Python/Backend/DevOps/Shell ></h3>
 
-- 🔭 I’m currently working on **a c++ touchpad controlled on-screen menu**
+- 🔭 I’m currently working on **a c++ infinite 3d world generator**
 
-- 🌱 I’m currently learning **Vulkan**
+- 🌱 I’m currently learning **OpenGL**
 
 - 📫 How to reach me **ashley33dev@gmail.com**
 
